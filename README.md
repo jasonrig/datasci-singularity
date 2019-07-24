@@ -22,6 +22,7 @@ Installed libraries and packages include:
 * [seaborn](https://seaborn.pydata.org)
 * [Plotly](https://plot.ly)
 * [Bokeh](https://bokeh.pydata.org/en/latest/)
+* [Altair](https://altair-viz.github.io)
 * [Pygal](http://pygal.org)
 * [pydot](https://github.com/pydot/pydot)
 * [TensorFlow 2.0.0-beta1](https://www.tensorflow.org) (GPU version)
