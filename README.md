@@ -1,6 +1,6 @@
 # Data Science Singularity Container
 
-A Singularity definition file for a python-centric data science container that is useful in GPU-accelerated HPC environments for machine learning and deep learning applications.
+A [Singularity](https://sylabs.io/docs/) definition file for a python-centric data science container that is useful in GPU-accelerated HPC environments for machine learning and deep learning applications.
 
 Installed libraries and packages include:
 
