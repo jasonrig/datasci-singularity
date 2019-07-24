@@ -1,12 +1,13 @@
 # Data Science Singularity Container
 
-A [Singularity](https://sylabs.io/docs/) definition file for a python-centric data science container that is useful in GPU-accelerated HPC environments for machine learning and deep learning applications.
+A [Singularity](https://sylabs.io/docs/) definition file for a python-centric data science container built on Ubuntu 18.04 that is useful in GPU-accelerated HPC environments for machine learning and deep learning applications.
 
 Installed libraries and packages include:
 
 (if version number not specified, latest version available or default base OS package is used)
 
 * [CUDA 10.0](https://developer.nvidia.com/cuda-10.0-download-archive)
+* [Python 3.6](https://www.python.org/)
 * [nano](https://www.nano-editor.org) / [vim](https://www.vim.org) / [emacs](https://www.gnu.org/s/emacs/)
 * [graphviz](https://www.graphviz.org)
 * [Spark 2.4.3](https://spark.apache.org)
