@@ -36,7 +36,7 @@ Stage: build
    # Install OpenMPI for CNTK
    apt install -y openmpi-bin
    # Python setup
-   apt install -y python3-pip
+   apt install -y python3-pip python3-venv
    # Java and Scala setup (for Spark)
    apt install -y openjdk-8-jre-headless scala
 
